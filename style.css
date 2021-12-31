@@ -187,6 +187,7 @@ Rozwiązaniem jest kolor rgb z opacity na końcu */
     justify-content: center;
     position: relative;
     text-align: center;
+    transition-duration: 0.5s;
   }
 
   .boxes {
@@ -488,6 +489,5 @@ Rozwiązaniem jest kolor rgb z opacity na końcu */
 
   .box:hover {
     transform: scale(1.05);
-    transition-duration: 0.5s;
   }
 }
